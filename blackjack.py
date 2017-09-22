@@ -1,5 +1,4 @@
 import random
-from IPython.display import clear_output
 import time
 import os
 
